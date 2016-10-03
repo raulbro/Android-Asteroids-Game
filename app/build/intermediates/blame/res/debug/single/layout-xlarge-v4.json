@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/layout-xlarge-v4/row_import_file.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/src/main/res/layout-xlarge/row_import_file.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/layout-xlarge-v4/fragment_import.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/src/main/res/layout-xlarge/fragment_import.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/layout-xlarge-v4/fragment_main.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/src/main/res/layout-xlarge/fragment_main.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/layout-xlarge-v4/row_import_file.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/src/main/res/layout-xlarge/row_import_file.xml"
+    },
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/layout-xlarge-v4/fragment_main.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/src/main/res/layout-xlarge/fragment_main.xml"
+    },
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/layout-xlarge-v4/fragment_import.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/src/main/res/layout-xlarge/fragment_import.xml"
+    }
+]

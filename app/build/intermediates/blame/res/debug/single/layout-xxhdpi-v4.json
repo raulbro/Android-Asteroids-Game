@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/layout-xxhdpi-v4/fragment_part_chooser.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/src/main/res/layout-xxhdpi/fragment_part_chooser.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/layout-xxhdpi-v4/fragment_part_chooser.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/src/main/res/layout-xxhdpi/fragment_part_chooser.xml"
+    }
+]

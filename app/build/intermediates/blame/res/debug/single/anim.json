@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/slide_out_down.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/src/main/res/anim/slide_out_down.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/src/main/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/src/main/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/slide_in_up.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/slide_out_down.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/src/main/res/anim/slide_out_down.xml"
+    },
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/slide_in_up.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/users/guest/r/raulbr/CS240Asteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/raulbr/Documents/CS240_Submitted_Files/Asteroids/CS240Asteroids/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_out_top.xml"
+    }
+]
